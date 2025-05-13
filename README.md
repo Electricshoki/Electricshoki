@@ -1,16 +1,30 @@
-## Hi there 👋
+# [YAGISHITA SHOKI] 야기시타쇼키 (유하장희)
 
-<!--
-**Electricshoki/Electricshoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Email**: [dbgkwkdgml33@gmail.com](mailto:dbgkwkdgml33@gmail.com)  
+**Department**: 컴퓨터공학과, 동국대학교
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👍 This is [@Electricshoki](https://github.com/Electricshoki) (YAGISHITA SHOKI)
+
+I focus on:
+  - **CS (Computer Science)**
+  - **Front-End Development**
+  - **Game Coding**
+
+
+## Tech Stack
+
+- **Languages**: `Java`, `Python`, `JavaScript`, `C#`, `C++`
+- **Frameworks & Tools**:
+  - `Spring Boot`, `React`, `Unity`
+- **Others**: `Git`, `Figma`
+
+
+## How to reach me:
+
+- Email 1: [dbgkwkdgml33@gmail.com](mailto:dbgkwkdgml33@gmail.com)  
+- Email 2: [dbgkwkdgml@naver.com](mailto:dbgkwkdgml@naver.com)
+
+
+성장하는 개발자를 꿈꿉니다.
